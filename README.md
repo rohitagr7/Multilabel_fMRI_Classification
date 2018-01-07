@@ -6,4 +6,4 @@ This repo is for multiabel classification of fMRI brain image data for CS446(Mac
 
 Converting multilabel to multiclass gave higher score on kaggle
 
-To run: Simple run the script with python.
+To run: Simply run the script with python.
