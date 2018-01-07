@@ -1,2 +1,7 @@
 # Multilabel_fMRI_Classification
-This script takes in multilabeled fMRI brain image data and trains a 3D ConvNet for classification. 
+This repo is for multiabel classification of fMRI brain image data for CS446 project.
+
+- fMRI_muticlass.py converts the multilabel problem to a multiclass one for classification
+- fMRI_multilabel.py does vanilla multilabel classification
+
+Converting multilabel to multiclass gave higher score on kaggle
